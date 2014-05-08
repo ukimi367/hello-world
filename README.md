@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-Trying out GitHub
+Trying out GitHub using their tutorial.
